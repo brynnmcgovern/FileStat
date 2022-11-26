@@ -1,4 +1,6 @@
 README Assignment 1 - File Status
+This program takes in a filename as a command line prompt and returns information about the file. The program outputs the Inode number, file type, username of the person who created the file, file size, and the date the file was last modified. 
+
 1. Brynn McGovern
    2370579
    bmcgovern@chapman.edu
